@@ -38,8 +38,8 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <>
-cd 
+git clone <https://github.com/Akki-soni/Airline-Website-Web.git>
+cd Airline-Website-Web
 open index.html
 ```
 
