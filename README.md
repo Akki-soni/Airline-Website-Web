@@ -54,11 +54,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Modern_Login_Page-Screenshot](/MLP_Screenshot.png)
+![Airline-Website-Screenshot](/Airline_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://news-app-web-blond.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
