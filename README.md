@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Modern Login Page</h1>
+<h1 align="center">Airline Website</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -18,29 +18,28 @@
 </p>
 
 <p align="center">
-  A modern and responsive login page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
+  A modern and responsive Airline page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
 </p>
 
 ## 🛠️ Features
 
 - **Responsive Design**: The login page is fully responsive and adjusts to various screen sizes.
 - **Smooth Animations**: Subtle animations on input fields and buttons for a modern look and feel.
-- **Form Validation**: Basic client-side form validation using JavaScript to ensure correct input.
 - **Stylish Layout**: Minimalistic and clean design with a modern touch.
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For creating the structure of the login page.
+- **HTML5**: For creating the structure of the Airline page.
 - **CSS3**: For styling the page, including layout, colors, and animations.
-- **JavaScript**: For form validation and interactivity.
+- **JavaScript**: For validation and interactivity.
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Modern-Login-Page-Web.git>
-cd Modern Login Page
+git clone <>
+cd 
 open index.html
 ```
 
